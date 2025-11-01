@@ -44,6 +44,9 @@ cd swiggy-restaurant-recommender
 2️⃣ Install Dependencies
 pip install -r requirements.txt
 
+
+Dataset and files : https://drive.google.com/drive/folders/1WfVy9y315bCNPMBO6Y7RwO0s4IXRut-e?usp=drive_link
+
 3️⃣ Run the Streamlit App
 streamlit run Swiggy.py
 
